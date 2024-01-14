@@ -1,4 +1,5 @@
-s is the Amenity Model module.
+#!/usr/bin/python3
+"""This is the Amenity Model module.
 Contains the Amenity class that inherits from BaseModel.
 """
 from models.base_model import BaseModel
